@@ -36,12 +36,12 @@
       "lng": ""
     },
     "delivery": {
-      "street": "",
-      "postal_code": "",
-      "city": "",
-      "country": "",
-      "lat": "",
-      "lng": ""
+      "street": "Friedenstraße 7-9",
+      "postal_code": "47647",
+      "city": "Kerken",
+      "country": "Deutschland",
+      "lat": "51.457741837276465",
+      "lng": "6.374895755616464"
     }
   }
 }
