@@ -1,0 +1,47 @@
+{
+  "S29751": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
+    "receiver": "Jannis Jakobi, Friedenstraße 7-9, 47647 Kerken, Deutschland",
+    "price": "2.700 €",
+    "description": "Hersteller: Simson<br>Typ: S 50<br>Fahrgestelnummer: 4198481<br>Erstzulassung: 08/1976<br>KM laut Vorbesitzer: 2.410 km<br>Leistung: 2,7 kW (3,7 PS)<br>Hubraum: 49,6 cm³, 2-Takt<br>Farbe: Silber<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Jannis Jakobi<br>Friedenstraße 7-9<br>47647 Kerken<br>Deutschland<br>Telefon: +49 170 8843886",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "28-08-2025",
+    "deliveryDate": "02-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
