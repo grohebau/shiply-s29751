@@ -1,6 +1,6 @@
 {
   "S29751": {
-    "status": "Versandvorbereitung",
+    "status": "Auf dem Transportweg",
     "statusClass": "pending",
     "sender": "Thomas Kehl, Kirtaweg 8, 81829 München, Deutschland",
     "receiver": "Jannis Jakobi, Friedenstraße 7-9, 47647 Kerken, Deutschland",
@@ -26,14 +26,14 @@
       }
     ],
     "orderDate": "28-08-2025",
-    "deliveryDate": "02-09-2025",
+    "deliveryDate": "03-09-2025, 15:30 Uhr",
     "pickup": {
       "street": "",
       "postal_code": "",
-      "city": "",
+      "city": "Frankfurt am Main",
       "country": "",
-      "lat": "",
-      "lng": ""
+      "lat": "50.02678817389285",
+      "lng": "8.495787001009854"
     },
     "delivery": {
       "street": "Friedenstraße 7-9",
